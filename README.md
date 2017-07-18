@@ -7,4 +7,4 @@
 
 3.jq实现注册页面动画效果和正则验证表单
 
-4.Github托管的页面效果链接：https://caimingxian.github.io/
+4.Github托管的页面效果链接：http://htmlpreview.github.io/?https://github.com/CaiMingxian/meishijie/blob/master/index.html
